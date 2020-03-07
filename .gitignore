@@ -1,4 +1,9 @@
-# Logs
+
+.vscode/
+.DS_Store
+package-lock.json
+build/
+.firebase/ Logs
 logs
 *.log
 npm-debug.log*
